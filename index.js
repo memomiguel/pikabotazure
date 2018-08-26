@@ -79,6 +79,7 @@ global.DataDownloader = require('./data-downloader.js');
 global.CommandParser = require('./command-parser.js');
 
 global.SecurityLog = require('./security-log.js');
+global.Db = require('origindb')('database');
 
 /* Commands */
 

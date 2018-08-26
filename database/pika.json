@@ -1,0 +1,114 @@
+{
+  "Instinct Operoa": {
+    "level": 0,
+    "money": 0,
+    "exp": 0,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [],
+    "bag": {}
+  },
+  "Htaras": {
+    "level": 0,
+    "money": 0,
+    "exp": 0,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [],
+    "bag": {}
+  },
+  "Ninjadier": {
+    "level": 0,
+    "money": 0,
+    "exp": 0,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [],
+    "bag": {}
+  },
+  "instinctoperoa": {
+    "level": 1,
+    "money": 0,
+    "exp": 9,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [
+      {
+        "pichu": {
+          "level": 20
+        }
+      },
+      {
+        "pichu": {
+          "level": 10
+        }
+      }
+    ],
+    "bag": {}
+  },
+  "htaras": {
+    "level": 1,
+    "money": 0,
+    "exp": 0,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [
+      {
+        "pichu": {
+          "level": 20
+        }
+      }
+    ],
+    "bag": {}
+  },
+  "ninjadier": {
+    "level": 2,
+    "money": 0,
+    "exp": 13,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [
+      {
+        "pichu": {
+          "level": 20
+        }
+      },
+      {
+        "pichu": {
+          "level": 20
+        }
+      }
+    ],
+    "bag": {}
+  },
+  "jackelope12": {
+    "level": 0,
+    "money": 0,
+    "exp": 0,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [
+      {
+        "pichu": {
+          "level": 10
+        }
+      }
+    ],
+    "bag": {}
+  },
+  "inqnyx": {
+    "level": 0,
+    "money": 0,
+    "exp": 0,
+    "rank": "Pichu",
+    "quests": 0,
+    "team": [
+      {
+        "pichu": {
+          "level": 10
+        }
+      }
+    ],
+    "bag": {}
+  }
+}
